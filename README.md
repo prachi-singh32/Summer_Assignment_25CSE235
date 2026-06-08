@@ -2,7 +2,7 @@
 
 This repository contains my daily C programming solutions for the **25CSE235** course summer break assignment.
 
-## 📌 Project Structure
+## 📌 Project Structure : 30-Day Assignment Tracker
 The assignments are organized into daily folders. Each folder contains 4 C code tasks assigned for that specific day:
 * `Day1/` - Basic C setup and initial operations
 * `Day2/` - [Problem of Day 2 topic here] 

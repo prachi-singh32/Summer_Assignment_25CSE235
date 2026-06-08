@@ -1,0 +1,16 @@
+# 1. Ignore macOS system junk & crash logs
+.DS_Store
+*.dSYM/
+
+# 2. Ignore standard C compiler outputs
+*.out
+*.o
+
+# 3. BULLETPROOF RULE: Ignore all extensionless compiled apps globally
+*
+!*/
+!*.c
+!*.h
+!*.md
+!.gitignore
+!*.json

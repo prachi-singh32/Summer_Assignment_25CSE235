@@ -6,27 +6,27 @@ This repository contains my daily C programming solutions for the **25CSE235** s
 
 The assignments are organized into daily folders. Each folder contains 4 C programs assigned for that day.
 
-## 🔥 Assignment Progress
+## 🔥 Assignment Progress Tracker
 
-| Day         | Status |
-| ----------- | ------ |
-| Day01       | ✅      |
-| Day02       | ✅      |
-| Day03       | ✅      |
-| Day04       | ✅      |
-| Day05       | ✅      |
-| Day06       | ✅      |
-| Day07       | ✅      |
-| Day08       | ✅      |
-| Day09       | ✅      |
-| Day10       | ✅      |
-| Day11       | ✅      |
-| Day12       | ✅      |
-| Day13–Day30 | ⬜      |
+| Day   | Status | Day   | Status | Day   | Status |
+| ----- | ------ | ----- | ------ | ----- | ------ |
+| Day01 | ✅      | Day11 | ✅      | Day21 | ⬜      |
+| Day02 | ✅      | Day12 | ✅      | Day22 | ⬜      |
+| Day03 | ✅      | Day13 | ⬜      | Day23 | ⬜      |
+| Day04 | ✅      | Day14 | ⬜      | Day24 | ⬜      |
+| Day05 | ✅      | Day15 | ⬜      | Day25 | ⬜      |
+| Day06 | ✅      | Day16 | ⬜      | Day26 | ⬜      |
+| Day07 | ✅      | Day17 | ⬜      | Day27 | ⬜      |
+| Day08 | ✅      | Day18 | ⬜      | Day28 | ⬜      |
+| Day09 | ✅      | Day19 | ⬜      | Day29 | ⬜      |
+| Day10 | ✅      | Day20 | ⬜      | Day30 | ⬜      |
 
 ## 📊 Overall Progress
 
-**12 / 30 Days Completed**
+```text
+Progress: ████████░░░░░░░░░░░░ 12/30
+```
+
 
 ## 🛠️ How to Compile and Run
 

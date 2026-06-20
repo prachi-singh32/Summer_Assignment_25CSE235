@@ -22,12 +22,11 @@ The assignments are organized into daily folders. Each folder contains 4 C progr
 | Day10       | ✅      |
 | Day11       | ✅      |
 | Day12       | ✅      |
-| Day13       | ✅      |
-| Day14–Day30 | ⬜      |
+| Day13–Day30 | ⬜      |
 
 ## 📊 Overall Progress
 
-**13 / 30 Days Completed**
+**12 / 30 Days Completed**
 
 ## 🛠️ How to Compile and Run
 

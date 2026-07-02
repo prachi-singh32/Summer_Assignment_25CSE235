@@ -13,7 +13,7 @@ The assignments are organized into daily folders. Each folder contains 4 C progr
 | Day01 | ✅      | Day11 | ✅      | Day21 | ✅      |
 | Day02 | ✅      | Day12 | ✅      | Day22 | ✅      |
 | Day03 | ✅      | Day13 | ✅      | Day23 | ✅      |
-| Day04 | ✅      | Day14 | ✅      | Day24 | ⬜      |
+| Day04 | ✅      | Day14 | ✅      | Day24 | ✅      |
 | Day05 | ✅      | Day15 | ✅      | Day25 | ⬜      |
 | Day06 | ✅      | Day16 | ✅      | Day26 | ⬜      |
 | Day07 | ✅      | Day17 | ✅      | Day27 | ⬜      |
@@ -25,7 +25,7 @@ The assignments are organized into daily folders. Each folder contains 4 C progr
 ## 📊 Overall Progress
 
 ```text
-Progress: ██████████████░░░░░ 23/30 (76.67%)
+Progress: ███████████████░░░░ 24/30 (80%)
 ```
 
 

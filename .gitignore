@@ -1,19 +1,16 @@
-# 1. Ignore macOS system junk & crash logs
+# macOS system files
 .DS_Store
-*.dSYM/
+**/.DS_Store
 
-# 2. Ignore standard C compiler outputs
+# VS Code
+.vscode/
+
+# C compiler outputs
 *.out
 *.o
+*.exe
+*.dSYM/
 
-# 3. BULLETPROOF RULE: Ignore all extensionless compiled apps globally
-*
-!*/
-!*.c
-!*.h
-!*.md
-!.gitignore
-!*.json
-
-echo ".DS_Store" >> ../.gitignore
-echo "**/.DS_Store" >> ../.gitignore
+# Temporary files
+*.swp
+*.tmp

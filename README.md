@@ -19,16 +19,18 @@ The assignments are organized into daily folders. Each folder contains 4 C progr
 | Day07 | ✅      | Day17 | ✅      | Day27 | ✅      |
 | Day08 | ✅      | Day18 | ✅      | Day28 | ✅      |
 | Day09 | ✅      | Day19 | ✅      | Day29 | ✅      |
-| Day10 | ✅      | Day20 | ✅      | Day30 | ⬜      |
+| Day10 | ✅      | Day20 | ✅      | Day30 | ✅      |
 
 
 ## 📊 Overall Progress
 
 ```text
-Progress: ██████████████████░ 29/30 (96.67%)
+Progress: ███████████████████ 30/30 (100%)
 ```
 
+## 💻 Technologies Used
 
+    🖥️ C Programming • ⚙️ GCC • 💡 VS Code • 🌿 Git • 🐙 GitHub
 
 ## 🛠️ How to Compile and Run
 
@@ -37,9 +39,28 @@ gcc filename.c -o output
 ./output
 ```
 
+## 🔗 GitHub Repository
+
+**Repository:**  
+<https://github.com/prachi-singh32/Summer_Assignment_25CSE235>
+
 ## 👤 Student Information
 
 * **Name:** Prachi
 * **Roll No:** 25CSE235
 * **Email:** prachi983547@gmail.com
 * **Course:** C Programming Summer Assignment
+
+---
+
+## ✅ Project Status
+
+Successfully completed all **30 Days** of the **25CSE235 C Programming Summer Assignment**.
+
+---
+
+## © Copyright
+
+© 2026 Prachi. All Rights Reserved.
+
+This repository was created for educational purposes as part of the **25CSE235 C Programming Summer Assignment**.

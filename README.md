@@ -41,8 +41,7 @@ gcc filename.c -o output
 
 ## 🔗 GitHub Repository
 
-**Repository:**  
-<https://github.com/prachi-singh32/Summer_Assignment_25CSE235>
+**Repository:** <https://github.com/prachi-singh32/Summer_Assignment_25CSE235>
 
 ## 👤 Student Information
 

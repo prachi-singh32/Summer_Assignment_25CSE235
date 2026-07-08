@@ -39,9 +39,10 @@ gcc filename.c -o output
 ./output
 ```
 
+
 ## 🔗 GitHub Repository
 
-**Repository:** <https://github.com/prachi-singh32/Summer_Assignment_25CSE235>
+[Summer_Assignment_25CSE235](https://github.com/prachi-singh32/Summer_Assignment_25CSE235)
 
 ## 👤 Student Information
 
